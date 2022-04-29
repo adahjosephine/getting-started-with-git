@@ -1,0 +1,1 @@
+This is a collection of my python assignments from the book: Python for the absolute beginner.
